@@ -112,7 +112,7 @@ function App() {
   };
 
   return (
-    <div className="App px-5 ">
+    <div className="App px-5 pb-5">
       <div className="my-5 d-flex justify-content-end">
         <Button onClick={handleAddData} variant="success">
           Add Image
